@@ -1,3 +1,4 @@
+### 알고리즘 스터디 시즌 1
 1. 목적
 	- 스터디를 통하여 지속적인 알고리즘 학습 동기 부여
 
@@ -9,7 +10,7 @@
 	- 약 2시간 모임 진행
 
 4. 스터디 내용
-	- BAEKJOON onlince judge - https://www.acmicpc.net/에서 제공하는 알고리즘 문제 풀이 
+	- BAEKJOON onlince judge - https://www.acmicpc.net/에서 제공하는 알고리즘 문제 풀이
 	- 단계별 문제를 통하여 알고리즘 해결 방법론 학습
 	- 성능 향상 및 코딩 시간 단축을 위한 효과적인 코딩 학습
 
